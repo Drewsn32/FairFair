@@ -1,0 +1,10 @@
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\bin\Release\netcoreapp3.1\App.Helpers.deps.json
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\bin\Release\netcoreapp3.1\App.Helpers.dll
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\bin\Release\netcoreapp3.1\App.Helpers.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.csproj.AssemblyReference.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.AssemblyInfoInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.AssemblyInfo.cs
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.csproj.CoreCompileInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.dll
+D:\Repositories\NCSolFairFair\Libraries\App.Helpers\obj\Release\netcoreapp3.1\App.Helpers.pdb

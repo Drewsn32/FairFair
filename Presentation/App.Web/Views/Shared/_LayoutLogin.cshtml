@@ -1,0 +1,42 @@
+﻿<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>App.Web - </title>
+    <environment include="Development">
+
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/bundle/font.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/bundle/lib.min.css" asp-append-version="true" />
+        <link rel="stylesheet" href="~/bundle/main.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body id="login">
+    @RenderBody()
+
+    <environment include="Development">
+
+    </environment>
+    <environment exclude="Development">
+        <script src="~/bundle/lib.min.js" asp-append-version="true"></script>
+        <script src="~/bundle/main.min.js" asp-append-version="true"></script>
+    </environment>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#form_validation').validate({
+                highlight: function (input) {
+                    $(input).parents('.input-group').addClass('error');
+                },
+                unhighlight: function (input) {
+                    $(input).parents('.input-group').removeClass('error');
+                },
+                errorPlacement: function (error, element) {
+                    $(element).parents('.input-container').append(error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>

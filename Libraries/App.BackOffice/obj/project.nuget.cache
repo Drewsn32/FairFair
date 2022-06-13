@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vj6FyTyyeKw7sSsF5F0XAewV+2qA9suM3uhT0wYpuYJoPBbg+L1UeEKSGXNGY3OiJS4nqQnLxyNFtwsBsrTb6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drewsn32\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

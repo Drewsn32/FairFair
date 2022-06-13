@@ -1,0 +1,10 @@
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\bin\Release\netcoreapp3.1\App.Paths.deps.json
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\bin\Release\netcoreapp3.1\App.Paths.dll
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\bin\Release\netcoreapp3.1\App.Paths.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.csproj.AssemblyReference.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.AssemblyInfoInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.AssemblyInfo.cs
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.csproj.CoreCompileInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.dll
+D:\Repositories\NCSolFairFair\Libraries\App.Paths\obj\Release\netcoreapp3.1\App.Paths.pdb

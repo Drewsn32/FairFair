@@ -1,0 +1,70 @@
+﻿@model Request<LoginCreateRequest>
+@{
+    Layout = "_LayoutLogin";
+}
+<div class="outer">
+    <div class="middle">
+        <div class="inner">
+            <div class="log-container">
+                <div class="log-left">
+                    <div class="bg"></div>
+                    <partial name="_OurParner" />
+                </div>
+                <div class="log-right">
+                    <div class="card">
+                        <div class="bg"></div>
+                        <form id="form_validation" role="form" asp-action="Login" method="post" enctype="multipart/form-data">
+                            <div class="body">
+                                <div class="log-warpper">
+                                    <h1 class="log-headline">Welcome!</h1>
+                                    <p class="log-subheadline">Enter your credentials to access your account</p>
+                                    @if (Model.ServiceStatus.StatusCode == AppStatusCode.IsValid)
+                                    {
+                                        <div class="alert alert-danger">@Model.ServiceStatus.StatusMessage</div>
+                                    }
+                                    <div class="log-form">
+                                        <div class="input-container">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <i class="material-icons">mail_outline</i>
+                                                </span>
+                                                <div class="form-line">
+                                                    <input asp-for="@Model.Data.UserName" class="form-control" placeholder="Enter your credentials to access your account" required autofocus>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="input-container">
+                                            <div class="input-group">
+                                                <span class="input-group-addon">
+                                                    <i class="material-icons">lock_outline</i>
+                                                </span>
+                                                <div class="form-line">
+                                                    <input asp-for="@Model.Data.Password" class="form-control" placeholder="Enter your password" required>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <input type="checkbox" id="md_checkbox_30" class="filled-in chk-col-teal" checked />
+                                        <label for="md_checkbox_30">Remember me</label>
+                                        <button class="btn bg-teal btn-block btn-lg waves-effect btn-login" type="submit">Login</button>
+                                        <div class="log-option">
+                                            <div class="log-opleft">
+                                                <a asp-action="Forgot">
+                                                    <div class="demo-google-material-icon"> <i class="material-icons">info_outline</i> <span class="icon-name">Forgot your password</span></div>
+                                                </a>
+                                            </div>
+                                            <div class="log-opright">
+                                                <a asp-action="Register">
+                                                    <div class="demo-google-material-icon"> <i class="material-icons">desktop_windows</i> <span class="icon-name">Register Computer</span></div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

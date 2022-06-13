@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\App.BackOffice\App.BackOffice.csproj" />
+	  <ProjectReference Include="..\App.BusinessEntities\App.BusinessEntities.csproj" />
+	  <ProjectReference Include="..\App.NewFairFair\App.NewFairFair.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="INewCosmic\" />
+	  <Folder Include="NewCosmic\" />
+	</ItemGroup>
+
+</Project>

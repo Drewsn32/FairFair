@@ -1,0 +1,506 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resolver\\App.Resolver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj",
+        "projectName": "App.BackOffice",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\App.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\App.Helpers.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj",
+        "projectName": "App.BusinessEntities",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\App.Resources.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\App.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\App.BusinessServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\App.BusinessServices.csproj",
+        "projectName": "App.BusinessServices",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\App.BusinessServices.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BackOffice\\App.BackOffice.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessEntities\\App.BusinessEntities.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\App.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\App.Helpers.csproj",
+        "projectName": "App.Helpers",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\App.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj",
+        "projectName": "App.NewFairFair",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj",
+        "projectName": "App.Paths",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resolver\\App.Resolver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resolver\\App.Resolver.csproj",
+        "projectName": "App.Resolver",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resolver\\App.Resolver.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resolver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\App.BusinessServices.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.BusinessServices\\App.BusinessServices.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj"
+              },
+              "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj": {
+                "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Paths\\App.Paths.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\App.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\App.Resources.csproj",
+        "projectName": "App.Resources",
+        "projectPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\App.Resources.csproj",
+        "packagesPath": "C:\\Users\\Drewsn32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Drewsn32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

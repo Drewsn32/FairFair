@@ -1,0 +1,10 @@
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\bin\Release\netcoreapp3.1\App.NewFairFair.deps.json
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\bin\Release\netcoreapp3.1\App.NewFairFair.dll
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\bin\Release\netcoreapp3.1\App.NewFairFair.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.csproj.AssemblyReference.cache
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.AssemblyInfoInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.AssemblyInfo.cs
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.csproj.CoreCompileInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.dll
+D:\Repositories\NCSolFairFair\Libraries\App.NewFairFair\obj\Release\netcoreapp3.1\App.NewFairFair.pdb

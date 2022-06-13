@@ -1,0 +1,104 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/bundle/font.min.css",
+    "inputFiles": [
+      "wwwroot/css/font.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/lib.min.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "wwwroot/lib/fontawesome/dist/css/all.min.css",
+      "wwwroot/lib/node-waves/dist/css/waves.css",
+      "wwwroot/lib/animate-css/dist/css/animate.css",
+      "wwwroot/lib/bootstrap-select/dist/css/bootstrap-select.css",
+      "wwwroot/lib/bootstrap3-dialog/dist/css/bootstrap-dialog.min.css",
+      "wwwroot/lib/owlcarousel/dist/css/owl.carousel.css",
+      "wwwroot/lib/owlcarousel/dist/css/owl.theme.default.css",
+      "wwwroot/lib/easypaging/dist/css/easy-paging.css",
+      "wwwroot/lib/light-gallery/dist/css/lightgallery.css",
+      "wwwroot/lib/fullpage/dist/css/jquery.fullpage.css",
+      "wwwroot/lib/simplegallery/dist/css/simplegallery.css",
+      "wwwroot/lib/scrollyeah/dist/css/scrollyeah.css",
+      "wwwroot/lib/handleCounter/dist/css/handle-counter.css",
+      "wwwroot/lib/pacalendar/dist/css/pacalenda.css",
+      "wwwroot/lib/lightpick/dist/css/lightpick.css",
+      "wwwroot/lib/rangeSlider/dist/css/ion.rangeSlider.css",
+      "wwwroot/lib/rangeSlider/dist/css/ion.rangeSlider.skinFlat.css",
+      "wwwroot/lib/bootstrap-daterangepicker/dist/css/daterangepicker.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/login.min.css",
+    "inputFiles": [
+      "wwwroot/css/login.min.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/main.min.css",
+    "inputFiles": [
+      "wwwroot/css/themes/all-themes.css",
+      "wwwroot/css/materialize.css",
+      "wwwroot/css/style.css",
+      "wwwroot/css/bootstrap-customized.css",
+      "wwwroot/css/core.css",
+      "wwwroot/css/cristina.css",
+      "wwwroot/css/responsive.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/bundle/lib.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/js/jquery.js",
+      "wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "wwwroot/lib/fontawesome/dist/js/fontawesome.js",
+      "wwwroot/lib/fontawesome/dist/js/all.js",
+      "wwwroot/lib/bootstrap-select/dist/js/bootstrap-select.js",
+      "wwwroot/lib/bootstrap3-dialog/dist/js/bootstrap-dialog.min.js",
+      "wwwroot/lib/jquery-slimscroll/dist/js/jquery.slimscroll.js",
+      "wwwroot/lib/node-waves/dist/js/waves.js",
+      "wwwroot/lib/easing/dist/js/jquery.easing.min.js",
+      "wwwroot/lib/owlcarousel/dist/js/owl.carousel.js",
+      "wwwroot/lib/easypaging/dist/js/jquery.easy-paging.js",
+      "wwwroot/lib/easypaging/dist/js/jquery.paging.min.js",
+      "wwwroot/lib/jsrender/dist/js/jsrender.js",
+      "wwwroot/lib/light-gallery/dist/js/lightgallery-all.js",
+      "wwwroot/lib/jquery-validation/dist/js/jquery.validate.js",
+      "wwwroot/lib/jquery-load-scroll/dist/js/jQuery.loadScroll.js",
+      "wwwroot/lib/fullpage/dist/js/scrolloverflow.min.js",
+      "wwwroot/lib/fullpage/dist/js/jquery.fullpage.extensions.min.js",
+      "wwwroot/lib/fullpage/dist/js/jquery.fullpage.js",
+      "wwwroot/lib/simplegallery/dist/js/simplegallery.min.js",
+      "wwwroot/lib/scrollyeah/dist/js/scrollyeah.js",
+      "wwwroot/lib/moment/dist/js/moment.js",
+      "wwwroot/lib/handleCounter/dist/js/handleCounter.js",
+      "wwwroot/lib/pacalendar/dist/js/pacalenda.min.js",
+      "wwwroot/lib/lightpick/dist/js/lightpick.js",
+      "wwwroot/lib/rangeSlider/dist/js/ion.rangeSlider.js",
+      "wwwroot/lib/bootstrap-daterangepicker/dist/js/daterangepicker.js"
+
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  },
+  {
+    "outputFileName": "wwwroot/bundle/main.min.js",
+    "inputFiles": [
+      "wwwroot/js/admin.js",
+      "wwwroot/js/access.js",
+      "wwwroot/js/core.js",
+      "wwwroot/js/cristina.js",
+      "wwwroot/js/jquery-page.js",
+      "wwwroot/js/site.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

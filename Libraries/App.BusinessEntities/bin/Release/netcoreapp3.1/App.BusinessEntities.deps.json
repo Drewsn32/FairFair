@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "App.BusinessEntities/1.0.0": {
+        "dependencies": {
+          "App.Resources": "1.0.0"
+        },
+        "runtime": {
+          "App.BusinessEntities.dll": {}
+        }
+      },
+      "App.Resources/1.0.0": {
+        "runtime": {
+          "App.Resources.dll": {}
+        },
+        "resources": {
+          "th-th/App.Resources.resources.dll": {
+            "locale": "th-th"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.BusinessEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

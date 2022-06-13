@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "_LayoutLogin";
+}
+<div class="outer">
+    <div class="middle">
+        <div class="inner">
+            <div class="log-container">
+                <div class="log-left">
+                    <div class="bg"></div>
+                    <partial name="_OurParner" />
+                </div>
+                <div class="log-right">
+                    <div class="card">
+                        <div class="bg"></div>
+                        <div class="body">
+                            <div class="log-warpper">
+                                <h1 class="log-headline">Forgot Password</h1>
+                                <p class="log-subheadline">enter your registered email below to receive password reset instruction.</p>
+                                <div class="log-form">
+                                    <div class="input-container">
+                                        <div class="input-group">
+                                            <span class="input-group-addon">
+                                                <i class="material-icons">mail_outline</i>
+                                            </span>
+                                            <div class="form-line">
+                                                <input type="text" class="form-control" name="username" placeholder="Email" required autofocus>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <button type="button" class="btn bg-teal btn-block btn-lg waves-effect btn-login">Send</button>
+                                    <div class="log-option">
+                                        <div class="log-opleft">
+                                        </div>
+                                        <div class="log-opright">
+                                            <a asp-action="Login">
+                                                <div class="demo-google-material-icon"> <i class="material-icons">exit_to_app</i> <span class="icon-name">Login</span></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

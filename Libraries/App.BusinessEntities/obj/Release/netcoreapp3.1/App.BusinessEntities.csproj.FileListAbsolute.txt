@@ -1,0 +1,14 @@
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\App.BusinessEntities.deps.json
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\App.BusinessEntities.dll
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\App.BusinessEntities.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.AssemblyInfoInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.AssemblyInfo.cs
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.csproj.CoreCompileInputs.cache
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.dll
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.csproj.AssemblyReference.cache
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\App.Resources.dll
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\App.Resources.pdb
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\bin\Release\netcoreapp3.1\th-th\App.Resources.resources.dll
+D:\Repositories\NCSolFairFair\Libraries\App.BusinessEntities\obj\Release\netcoreapp3.1\App.BusinessEntities.csproj.CopyComplete

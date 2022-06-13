@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/wVUSa4WZaeXDO5d4TjtwXtUPhWC2rjpIca1hlxneTUM4UHFM1Nc6V8Rf5JsshKm3+DOkWQVPSGvU9zc5agLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Drewsn32\\Desktop\\NCSolFairFair\\Libraries\\App.NewFairFair\\App.NewFairFair.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drewsn32\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

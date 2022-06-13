@@ -1,0 +1,61 @@
+﻿@media only screen and (max-width: 1365px) {
+
+}
+
+@media screen and (min-width: 768px) {
+
+}
+@media only screen and (max-width: 1280px) {
+
+}
+
+@media only screen and (min-width: 1367px) {
+
+}
+
+@media only screen and (width: 1024px) {
+
+}
+
+@media only screen and (min-width: 1025px) {
+
+}
+/* smartphones, touchscreens */
+@media (hover: none) and (pointer: coarse) {
+    /* ... */
+}
+/* stylus-based screens */
+@media (hover: none) and (pointer: fine) {
+    /* ... */
+}
+/* Nintendo Wii controller, Microsoft Kinect */
+@media (hover: hover) and (pointer: coarse) {
+    /* ... */
+}
+/* mouse, touch pad */
+@media (hover: hover) and (pointer: fine) {
+    /* ... */
+}
+
+@media (max-width: 1440px) {
+
+}
+/*Large devices (desktops, less than 75em) IPAD PRO*/
+@media only screen and (max-width: 74.9em) {
+    
+}
+
+/*Medium devices (tablets, less than 62em)*/
+@media only screen and (max-width: 61.9em) {
+
+}
+
+/*Small devices (landscape phones, less than 48em)*/
+@media only screen and (max-width: 47.9em) {
+    
+}
+
+/*Extra small devices (portrait phones, less than 34em)*/
+@media only screen and (max-width: 33.9em) {
+    
+}
